@@ -12,7 +12,7 @@ FastFood Express is a React-based restaurant web application that allows users t
 
 ## Demo
 
-[Link to Live Demo](#) <!-- Add the link to your live demo here -->
+https://sweet-scone-d9f448.netlify.app/
 
 ## Features
 
